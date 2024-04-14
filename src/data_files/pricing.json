@@ -13,7 +13,7 @@
     "billingFrequency": "USD",
     "features": [
       "Sitio Estatico",
-      "incluye hosting y dominio .com.ar",
+      "Dominio .com.ar por 1 año",
       "Soporte standard"
     ],
     "purchaseBtnTitle": "Solicitar Landing Page",
@@ -27,12 +27,12 @@
     "cents": ".00",
     "billingFrequency": "USD",
     "features": [
-      "Sitio Ecommerce",
-      "incluye hosting y dominio .com.ar",
+      "Sistema de Stock",
+      "Dominio .com.ar por 1 año",
       "Soporte premium",
-      "Incluye landing page"
+      "Landing page"
     ],
-    "purchaseBtnTitle": "Get the Professional Toolbox",
+    "purchaseBtnTitle": "Obtener el Paquete Completo",
     "purchaseLink": "#"
   }
 }
