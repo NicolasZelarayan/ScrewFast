@@ -1,36 +1,36 @@
 {
-  "title": "Simple, Transparent Pricing",
+  "title": "Precios Accesibles",
   "subTitle": "Boost efficiency with ScrewFast's clear, value-driven plans.",
-  "badge": "Best value",
+  "badge": "Recomendado",
   "thirdOption": "Enterprise Solutions?",
   "btnText": "Get a Custom Quote",
 
   "starterKit": {
-    "name": "Starter Kit",
-    "description": "Best option for DIY projects",
-    "price": "$49",
+    "name": "Landing Page",
+    "description": "Mejor opcion para empezar con tu negocio en linea",
+    "price": "$75",
     "cents": ".00",
-    "billingFrequency": "USD / monthly",
+    "billingFrequency": "USD",
     "features": [
-      "Key hardware tools",
-      "Access to guides & tutorials",
-      "Standard support"
+      "Sitio Estatico",
+      "incluye hosting y dominio .com.ar",
+      "Soporte standard"
     ],
-    "purchaseBtnTitle": "Get the Starter Kit",
+    "purchaseBtnTitle": "Solicitar Landing Page",
     "purchaseLink": "#"
   },
 
   "professionalToolbox": {
-    "name": "Professional Toolbox",
-    "description": "Best for large scale uses",
-    "price": "$89",
+    "name": "Paquete Completo",
+    "description": "Mejor Opcion para Comercio Electronico",
+    "price": "$150",
     "cents": ".00",
-    "billingFrequency": "USD / monthly",
+    "billingFrequency": "USD",
     "features": [
-      "Premium tool selection",
-      "Priority support",
-      "Exclusive content & deals",
-      "Bulk order discounts"
+      "Sitio Ecommerce",
+      "incluye hosting y dominio .com.ar",
+      "Soporte premium",
+      "Incluye landing page"
     ],
     "purchaseBtnTitle": "Get the Professional Toolbox",
     "purchaseLink": "#"
